@@ -1,8 +1,6 @@
-# React + Vite
+## ScheduleTrackerReactApp 
+It is a dynamic web application built with React and JavaScript that helps users efficiently manage their tasks and deadlines. The app allows users to create, edit, and delete tasks, each with a deadline and completion status. It features sorting and filtering capabilities, enabling users to view tasks due today, within a week, or within a month, as well as tasks that have missed their deadlines.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+The application utilizes date-fns for date manipulation and localStorage for state persistence, ensuring that user data is saved across sessions. The project showcases a well-organized codebase with multiple components, including task management features and user interface elements. It highlights proficiency in React’s component-based architecture, state management, and working with external libraries.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## link: https://schedule-tracker-react-app.vercel.app/
