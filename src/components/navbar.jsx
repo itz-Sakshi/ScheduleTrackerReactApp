@@ -24,7 +24,7 @@ const navbar = () => {
               ? "text-red-400 cursor-pointer hover:font-bold transition-all"
               : "cursor-pointer hover:font-bold transition-all"
           }
-          to="/logout"
+          to="/"
         >
           <li>Log Out</li>
         </NavLink>
